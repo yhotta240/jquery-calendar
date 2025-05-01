@@ -16,7 +16,6 @@
 <body>
   <div>
     <h3>カレンダー</h3>
-    <!-- <div id="datepicker"></div> -->
     <div class="pull-down-group">
       <select name="year" id="select-year">
       </select>
